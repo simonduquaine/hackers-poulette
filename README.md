@@ -1,6 +1,6 @@
 # hackers-poulette
 
-Hackers Poulette at BeCode
+Hackers Poulette @ BeCode
 
 ## The mission
 
