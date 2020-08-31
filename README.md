@@ -1,5 +1,7 @@
 # hackers-poulette
 
+![Hackers-poulette](https://raw.githubusercontent.com/becodeorg/CRL-Woods-3.21/master/LearningPath/03.The-Mountain/12.PHP/PHP-Challenges/hackers-poulette/hackers-poulette-logo.png?token=APXWRAT6DCFUNPGKYAP2EHC7KXSEQ)
+
 Hackers Poulette @ BeCode
 
 ## The mission
