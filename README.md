@@ -1,6 +1,6 @@
 # hackers-poulette
 
-![Hackers-poulette](https://raw.githubusercontent.com/becodeorg/CRL-Woods-3.21/master/LearningPath/03.The-Mountain/12.PHP/PHP-Challenges/hackers-poulette/hackers-poulette-logo.png?token=APXWRAT6DCFUNPGKYAP2EHC7KXSEQ)
+![Hackers-poulette](https://lh3.googleusercontent.com/proxy/BD2nuHz0aHhpBEyagSfQm08VYJNnrPXSiX7uyGdVk_R2H6Tcpy81j_18xwFNPu3durgK9v_sN0FLbaDj1XlpC8t_xdGdZDNgcTGCXqhvlrlXCaLZyFjy0RtcKaMe)
 
 Hackers Poulette @ BeCode
 
